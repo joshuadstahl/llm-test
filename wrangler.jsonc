@@ -1,6 +1,6 @@
 {
   "$schema": "./node_modules/wrangler/config-schema.json",
-  "name": "cloudflare-vite-get-started",
+  "name": "llm-test",
   "assets": {
     // The path to the directory containing the `index.html` file to be served at `/`
     "directory": "./public"
